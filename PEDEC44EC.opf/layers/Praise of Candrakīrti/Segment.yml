@@ -1,0 +1,104 @@
+id: 1453607d0ad04039808e322eab81fe1c
+annotation_type: Segment
+revision: '00001'
+annotations:
+  0dc2f9a550ee458a9dff79e761923587:
+    span:
+      start: 0
+      end: 48
+    metadata: {}
+  d5488c4cae724d6f8966185f04df17d5:
+    span:
+      start: 50
+      end: 162
+    metadata: {}
+  743d50513fca497ca26abe18c6438735:
+    span:
+      start: 164
+      end: 277
+    metadata: {}
+  1231d26cf5f1458b92fc81a5c5f0c054:
+    span:
+      start: 279
+      end: 390
+    metadata: {}
+  2210526d9f9c4526b19b62a787c12aa6:
+    span:
+      start: 392
+      end: 510
+    metadata: {}
+  1ede124f3bf7423f924c740a967b72aa:
+    span:
+      start: 512
+      end: 622
+    metadata: {}
+  40e7bda5f1f84fd48b22e85780b1abe0:
+    span:
+      start: 624
+      end: 727
+    metadata: {}
+  a9ba80dad7b24474824adf1aded40ce7:
+    span:
+      start: 729
+      end: 842
+    metadata: {}
+  f1b89b787c044268857933b5a821c502:
+    span:
+      start: 844
+      end: 957
+    metadata: {}
+  bcd7dac5cc734fffb7cb0940620a1ed3:
+    span:
+      start: 959
+      end: 1074
+    metadata: {}
+  c01ebfbc9c84496abff9552933578cdb:
+    span:
+      start: 1076
+      end: 1197
+    metadata: {}
+  8960f71b88f041a6a59781d5ca44e25d:
+    span:
+      start: 1199
+      end: 1311
+    metadata: {}
+  d8a33f8fc8ad4c82a3c01df9be1521ad:
+    span:
+      start: 1313
+      end: 1431
+    metadata: {}
+  43c620c30d05474bb4b577938de874ed:
+    span:
+      start: 1433
+      end: 1545
+    metadata: {}
+  919f9dbbb6dd44edb25ab5608eea8bbf:
+    span:
+      start: 1547
+      end: 1657
+    metadata: {}
+  fa078fec16074aa0a3be0c0c3a997634:
+    span:
+      start: 1659
+      end: 1778
+    metadata: {}
+  46186d4996bc4abca38ef60f70be9fd6:
+    span:
+      start: 1780
+      end: 1901
+    metadata: {}
+  9ffeda5838ee444883d3c706023dc26c:
+    span:
+      start: 1903
+      end: 1921
+    metadata: {}
+  7e8f380f5137437c9032cb045e5b09a7:
+    span:
+      start: 1923
+      end: 1996
+    metadata: {}
+  10c5f713b92d4aa694fa65c3b8ce8a9e:
+    span:
+      start: 1998
+      end: 2036
+    metadata: {}
